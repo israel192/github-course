@@ -10,4 +10,3 @@ Botao de Validação do Paypal
 Qualquer coisa!!!
 
 Outros cursos em : [Google](http:://www.google.com.br/)
-Teste 123abcd
